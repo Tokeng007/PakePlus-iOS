@@ -14,35 +14,35 @@
 			<key>IsRemovable</key>
 			<true/>
 			<key>Label</key>
-			<string>亮亮影视</string>
+			<string>亮亮</string>
 			<key>PayloadDescription</key>
 			<string>Configuration Payload description</string>
 			<key>PayloadDisplayName</key>
 			<string>PakePayload</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.webClip.managed.E0736409-C08F-4F54-86DA-F8A46B16B343</string>
+			<string>com.apple.webClip.managed.E0736409-C08F-4F54-86DA-76FC3C9EBD50</string>
 			<key>PayloadType</key>
 			<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
-			<string>E0736409-C08F-4F54-86DA-F8A46B16B343</string>
+			<string>E0736409-C08F-4F54-86DA-76FC3C9EBD50</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>Precomposed</key>
 			<false/>
 			<key>URL</key>
-			<string>http://192.168.0.2/</string>
+			<string>https://ipi6.com</string>
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
-	<string>亮亮影视</string>
+	<string>亮亮</string>
 	<key>PayloadIdentifier</key>
-	<string>com.pakeplus.ios.23014396-AA45-42E3-AB8D-F8A46B16B343</string>
+	<string>com.pakeplus.ios.23014396-AA45-42E3-AB8D-76FC3C9EBD50</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>6E3BF4EB-11D9-4F2E-8DE8-F8A46B16B343</string>
+	<string>6E3BF4EB-11D9-4F2E-8DE8-76FC3C9EBD50</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
